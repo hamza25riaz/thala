@@ -1,5 +1,2 @@
-console.log("The Fibonacci sequence up to the 10th term is:");
-
-# this is change for feature login branch
-
-console.log("The Fibonacci sequence up to the 10th term is:");
+"TheFibonaccisequenceuptothe10thtermis:"
+"The2ndFibonaccisequenceuptothe10thtermis:"
